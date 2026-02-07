@@ -2,34 +2,25 @@ import replies from "../data/replies.json";
 
 export default function handler(req, res) {
   try {
-    const { text } = req.query;
+    const text = (req.query.text || "").toLowerCase();
 
-    if (!text) {
-      return res.status(200).json({
-        reply: "Kuch likho bhai, main mind reader nahi hoon 😅"
-      });
+    let bucket = "default";
+
+    if (text.includes("hello") || text.includes("hi")) {
+      bucket = "greetings";
+    } else if (text.includes("hack") || text.includes("password")) {
+      bucket = "hacker";
+    } else if (text.includes("lol") || text.includes("fun")) {
+      bucket = "funny";
     }
 
-    const key = text.toLowerCase().trim();
+    const arr = replies[bucket] || replies["default"];
+    const reply = arr[Math.floor(Math.random() * arr.length)];
 
-    // match exact key
-    if (replies[key]) {
-      const arr = replies[key];
-      const randomReply = arr[Math.floor(Math.random() * arr.length)];
-      return res.status(200).json({ reply: randomReply });
-    }
-
-    // fallback random reply
-    const fallback = replies["default"];
-    const randomFallback =
-      fallback[Math.floor(Math.random() * fallback.length)];
-
-    return res.status(200).json({ reply: randomFallback });
-
-  } catch (err) {
-    return res.status(500).json({
-      error: "Server crash prevented",
-      message: err.message
+    res.status(200).json({ reply });
+  } catch (e) {
+    res.status(200).json({
+      reply: "System thoda busy hai, baad me try karo 😅"
     });
   }
 }
