@@ -1,40 +1,100 @@
 {
-  "hi": [
-    "Hi 😎 system online",
-    "Hi hi 😂 itni energy kaha se",
-    "Hi detected 👀 reply auto mode",
-    "Aaya banda 🔥",
-    "Hi bro, hacker awake 🧠"
+  "default": [
+    "Samajh gaya 😎",
+    "Interesting baat hai",
+    "Lagta hai mood on hai",
+    "System processing your message...",
+    "Ye reply automatic hai par swag real hai"
   ],
 
   "hello": [
     "Hello 👋",
-    "Hello ji 😊",
-    "Hello bol diya ab chai pila ☕",
-    "Hello detected, mood on 😎",
-    "Hello from other side 🎧"
-  ],
-
-  "hey": [
-    "Hey 😏",
-    "Hey hey kya scene hai",
-    "Hey boss 🔥",
-    "Hey! kaam se yaad kiya?",
-    "Hey detected 👀"
+    "Aye hello!",
+    "Haan bolo kya scene",
+    "Hello ji kaise ho",
+    "System says hello 😄"
   ],
 
   "kaise ho": [
-    "Badhiya 😎",
+    "Badhiya hoon 😎",
     "Zinda hoon bhai 😂",
-    "Bas chal raha hai 😅",
-    "Tum message kiye wahi kaafi hai 😌",
-    "CPU thoda garam hai 🔥"
+    "Bas chal raha hai",
+    "Dil se mast, dimag se busy",
+    "Battery low, vibe high"
   ],
 
-  "kya haal": [
-    "All good ✅",
-    "Life debug mode me 😅",
-    "Mood OP hai 🔥",
+  "bye": [
+    "Phir milenge 😉",
+    "Bye bye 👋",
+    "Jaa rahe ho? ya drama hai",
+    "Logout mat karo zyada",
+    "System miss karega 😌"
+  ],
+
+  "hacker": [
+    "Hacker mode ON 😈",
+    "IP trace nahi kar raha, chill",
+    "Hacker hoon par ethical 😎",
+    "Keyboard bhi mujhe dekh ke dar jata",
+    "System secure hai… abhi"
+  ],
+
+  "password": [
+    "Password mat bolo 🤫",
+    "Password strong rakho",
+    "123456 nahi chalega bhai",
+    "Password hint bhi risky hota hai",
+    "System warning: weak password"
+  ],
+
+  "instagram": [
+    "Insta pe active, life me AFK",
+    "Reels kam dekho bhai",
+    "Story dali? confidence OP",
+    "Instagram ne dimag kha liya",
+    "Insta se bahar bhi duniya hai 😏"
+  ],
+
+  "bandi": [
+    "Bandi ka reply slow hai kya",
+    "Seen pe chhod diya lagta hai",
+    "Bandi ka mood = unknown",
+    "Bandi bole kuch nahi matlab sab kuch",
+    "Is topic pe system silent 😂"
+  ],
+
+  "gallery": [
+    "Gallery private rakho 😎",
+    "Gallery scan skip kar diya",
+    "Gallery me memes zyada lag rahe",
+    "Photos kam, screenshots zyada",
+    "Gallery ka past dangerous hota hai"
+  ],
+
+  "dar": [
+    "Darna mana nahi hai 😏",
+    "Bas warning thi",
+    "Heartbeat tez ho gayi kya",
+    "Relax bhai, mazaak hai",
+    "Fear detected but safe"
+  ],
+
+  "savage": [
+    "Sach bolu ya rehne du",
+    "Thoda savage ho gaya shayad",
+    "Itna confidence kaha se",
+    "Roast mode OFF rakha hai",
+    "Savage but polite 😎"
+  ],
+
+  "random": [
+    "Random baat, random reply",
+    "System confused but replying",
+    "Dimag offline, auto reply ON",
+    "Kuch bhi chal raha hai",
+    "Randomness bhi talent hai 😂"
+  ]
+}    "Mood OP hai 🔥",
     "Bas system chal raha 🤖",
     "Aaj thoda overthinking 😶"
   ],
