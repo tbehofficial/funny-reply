@@ -6,7 +6,7 @@ export default function handler(req, res) {
   const msg = (req.query.msg || "").toLowerCase().trim();
 
   if (!msg) {
-    return res.json({ reply: "😄 Kuch likho to sahi!" });
+    return res.json({ reply: "😄 kuch likho to sahi!" });
   }
 
   const matched = replies.filter(r => r.msg === msg);
