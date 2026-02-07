@@ -16,7 +16,7 @@
     "Hi nahi, command bolo",
     "Hi bol ke logout mat ho jana",
     "Hi detected, reply injected",
-    "Hi bro 😄",
+    "Hi bro",
     "Hi keh ke hacker ban gaye",
     "Hi ke aage bhi kuch likh do",
     "Hi accepted, access denied",
@@ -66,67 +66,119 @@
 
   "hacker": [
     "Hacker bolne se hacker nahi bante",
-    "Hacker ka bhi boss hota hai",
     "Real hacker silent hota hai",
     "Hacker ka kaam bolna nahi hota",
-    "Hacker ka mood dark hota hai",
-    "Hacker keyboard se ladta hai",
+    "Keyboard hi asli weapon hai",
     "Hacker coffee pe zinda hota hai",
-    "Hacker Google ka bhai hota hai",
-    "Hacker sirf search better karta hai",
-    "Hacker ka humor alag hota hai"
+    "Google hi sabka guru hai",
+    "Dark mode compulsory hai",
+    "Hacker patience ka game hai",
+    "Script kiddie alert",
+    "Root mil gaya kya?"
   ],
 
-  "tool": [
-    "Tool ka link DM me",
-    "Tool free hai ya paid?",
-    "Tool outdated lag raha hai",
-    "Tool virus wala to nahi",
-    "Tool ka tutorial hai?",
-    "Tool run nahi ho raha",
-    "Tool error de raha hai",
-    "Tool Python me hai kya",
-    "Tool Linux support karta hai?",
-    "Tool ka password kya hai"
+  "password": [
+    "Password strong rakh bhai",
+    "123456 mat rakh dena",
+    "Password DM me mat bhejna",
+    "Password leak ho gaya lagta hai",
+    "Password manager use kar",
+    "Password dekh ke dar lag gaya",
+    "Password bhi privacy hai",
+    "Password change kar le",
+    "Password ka screenshot bhej 😏",
+    "Password secure nahi lag raha"
   ],
 
-  "error": [
-    "Error aaye bina hacker nahi banta",
-    "Error ko ignore kar",
-    "Error ka screenshot bhej",
-    "Error tera dost hai",
-    "Error = learning",
-    "Error ka solution Google pe hai",
-    "Error ka matlab tu sahi raste pe hai",
-    "Error se hi experience aata hai",
-    "Error ke bina life boring hai",
-    "Error ko accept kar"
+  "instagram": [
+    "Insta password nahi milta yahan",
+    "Reels kam dekha kar",
+    "Insta down hai kya",
+    "Followers real hain?",
+    "Insta pe hacker mat bano",
+    "Story pe hi jeevan chal raha",
+    "Insta ID secure rakh",
+    "DM ka misuse mat kar",
+    "Insta se zyada Linux seekh",
+    "Insta pe sab fake hai"
   ],
 
-  "funny": [
-    "Itna serious kyu hai bhai 😂",
-    "Lagta hai tu bored hai",
-    "Group ko mat uda bhai",
-    "Ye line meme worthy hai",
-    "Has le thoda",
-    "Jyada dark mat ja",
-    "Ye group Netflix nahi hai",
-    "Bhai aaj full comedy hai",
-    "Mood light rakho",
-    "Ye joke thoda heavy tha"
+  "ip": [
+    "IP trace mat karwa bhai",
+    "IP private hi rehne de",
+    "IP se zyada dimaag use kar",
+    "IP ka matlab Google kar",
+    "IP leak ho gaya lagta hai",
+    "IP v4 ya v6?",
+    "IP bol ke dara mat",
+    "IP ka drama mat kar",
+    "IP trace sirf movie me hota",
+    "IP address detected 😏"
   ],
 
-  "girl": [
-    "Girl word sun ke hi typing fast ho gayi",
-    "Focus bhai focus 😄",
-    "Group me line mat maar",
-    "DM ka option bhi hota hai",
-    "Aaj Romeo mood me hai kya",
-    "Bhai control",
-    "Hacker pehle, lover baad me",
-    "Group Tinder nahi hai",
-    "Aankh band karke type kar raha hai kya",
-    "Bhai bhai bhai"
+  "virus": [
+    "Virus tu khud lag raha",
+    "Antivirus update kar",
+    "Virus free tool nahi hota",
+    "Virus ka test mat kar",
+    "Virus alert ⚠️",
+    "Virus se hi seekha jata hai",
+    "Virus mat faila",
+    "Virus wali file lag rahi",
+    "Virus ka screenshot bhej",
+    "Virus ho gaya system ko"
+  ],
+
+  "linux": [
+    "Linux user detected",
+    "Linux me hi asli power hai",
+    "Windows chhod de bhai",
+    "Terminal kholo pehle",
+    "Linux = freedom",
+    "Linux seekh le life set",
+    "Linux pe sab possible hai",
+    "Linux command yaad kar",
+    "Linux me game nahi, kaam hota",
+    "Linux zindabad"
+  ],
+
+  "termux": [
+    "Termux king spotted",
+    "Termux bina root bhi kaam karta",
+    "Termux update kar le",
+    "Termux se hacker nahi bante",
+    "Termux practice ke liye hai",
+    "Termux me Python chal raha?",
+    "Termux error aa raha?",
+    "Termux ka guru Google hai",
+    "Termux ka misuse mat kar",
+    "Termux ka kaam seekh"
+  ],
+
+  "money": [
+    "Paise ke peeche mat bhaag",
+    "Free me kuch nahi milta",
+    "Crypto scam alert",
+    "Paisa kamane se pehle seekh",
+    "Money bhi illusion hai",
+    "Money se zyada knowledge",
+    "Paisa ayega sabr rakh",
+    "Instant rich scam hai",
+    "Paise ke chakkar me mat pad",
+    "Money ≠ success"
+  ],
+
+  "bot": [
+    "Bot online hai",
+    "Bot ka dimag thanda hai",
+    "Bot ko mat sikha",
+    "Bot bhi thak jata hai",
+    "Bot ka mood dark hai",
+    "Bot ignore mode me hai",
+    "Bot reply generate kar raha",
+    "Bot learning mode me hai",
+    "Bot ko spam mat kar",
+    "Bot ne notice kar liya"
   ],
 
   "bye": [
@@ -139,7 +191,7 @@
     "Bye hacker",
     "Take care bro",
     "Next session me milte hain",
-    "Bye bye 👋"
+    "Bye bye"
   ],
 
   "default": [
