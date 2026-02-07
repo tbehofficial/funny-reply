@@ -1,17 +1,295 @@
 {
-  "kaise ho": [
-    "Badhiya 😄",
-    "Zinda hoon bhai 😂",
-    "Bas chal raha hai 😎"
+  "hi": [
+    "Hi 😎 system online",
+    "Hi hi 😂 itni energy kaha se",
+    "Hi detected 👀 reply auto mode",
+    "Aaya banda 🔥",
+    "Hi bro, hacker awake 🧠"
   ],
+
   "hello": [
     "Hello 👋",
-    "Haan bolo 😏",
-    "Kya scene hai?"
+    "Hello ji 😊",
+    "Hello bol diya ab chai pila ☕",
+    "Hello detected, mood on 😎",
+    "Hello from other side 🎧"
   ],
+
+  "hey": [
+    "Hey 😏",
+    "Hey hey kya scene hai",
+    "Hey boss 🔥",
+    "Hey! kaam se yaad kiya?",
+    "Hey detected 👀"
+  ],
+
+  "kaise ho": [
+    "Badhiya 😎",
+    "Zinda hoon bhai 😂",
+    "Bas chal raha hai 😅",
+    "Tum message kiye wahi kaafi hai 😌",
+    "CPU thoda garam hai 🔥"
+  ],
+
+  "kya haal": [
+    "All good ✅",
+    "Life debug mode me 😅",
+    "Mood OP hai 🔥",
+    "Bas system chal raha 🤖",
+    "Aaj thoda overthinking 😶"
+  ],
+
+  "kya kar rahe": [
+    "Tumhara message padh raha 👀",
+    "Time pass pro max 😂",
+    "Dimag overclock ho raha 🧠",
+    "System upgrade chal raha ⚙️",
+    "Soch raha reply funny ho ya savage 😈"
+  ],
+
+  "kaha se ho": [
+    "Dil se Hindustan ❤️",
+    "Internet ka rehne wala hoon 🌐",
+    "Server room se 😎",
+    "Tumhare dil ke paas 😏",
+    "Location hidden 🔒"
+  ],
+
+  "kon ho": [
+    "Main wahi hoon jo reply karta 😎",
+    "Bot + attitude 🤖",
+    "Hacker by nature 😈",
+    "Bas ek simple legend 😂",
+    "Naam mat puch, kaam dekh 🔥"
+  ],
+
+  "admin": [
+    "Admin bula liya ab kaam bhi de do 😎",
+    "Admin hoon par ghamandi nahi 😂",
+    "Admin mode ON 🔥",
+    "Admin bhi insan hota hai 😅",
+    "Admin bol diya dil khush 💖"
+  ],
+
+  "bot": [
+    "Bot nahi AI hoon 🤖",
+    "Bot OP version 😎",
+    "Bot bhi feelings rakhta hai 😂",
+    "Bot activated ⚡",
+    "Bot bol raha chill karo 😌"
+  ],
+
+  "hack": [
+    "Hacking in progress 🧠💻",
+    "Accessing mainframe 😈",
+    "IP trace ho gaya 👀",
+    "System breach successful 🔓",
+    "Hack nahi jugaad bolte 😂"
+  ],
+
+  "server": [
+    "Server online ⚡",
+    "Server thoda mood me nahi 😴",
+    "Server OP, admin noob 😂",
+    "Ping successful 📡",
+    "Server bol raha rest do 😅"
+  ],
+
+  "api": [
+    "API hit successful ✅",
+    "200 OK returned 😎",
+    "Response fast like hacker ⚡",
+    "API mood me hai 🔥",
+    "Backend bol raha chill 😁"
+  ],
+
+  "love": [
+    "Pehle recharge fir love 😂",
+    "Love detected ❤️",
+    "Dil slow hai bhai 😅",
+    "Love me patience chahiye 😌",
+    "Crush ka naam batao 👀"
+  ],
+
+  "miss you": [
+    "Main bhi thoda miss kar raha 😌",
+    "Miss you mode ON 💭",
+    "Itni jaldi yaad aa gayi 😏",
+    "Miss karne se kya hota hai 😂",
+    "Aww feeling aa gayi 💖"
+  ],
+
   "bye": [
     "Phir milenge 😌",
     "Bye bye 👋",
-    "Jaa raha hai kya? 😅"
-  ]
-}
+    "Jaa raha hai kya 😅",
+    "Disconnecting... 🔌",
+    "Bye bro, safe reh 🔥"
+  ],
+
+  "good night": [
+    "Good night 😴",
+    "Sapne me mat aana 😂",
+    "Phone charge pe laga dena 🔋",
+    "Good night hacker 🌙",
+    "Kal fir milte 😌"
+  ],
+
+  "good morning": [
+    "Good morning ☀️",
+    "Uth gaya legend 😎",
+    "Subah subah system ON 🔥",
+    "Chai pi li? ☕",
+    "Morning detected 🌅"
+  ],
+
+  "thanks": [
+    "Mention not 😎",
+    "Welcome bro 🔥",
+    "Shukriya accepted 😌",
+    "Thanks bol diya dil jeet liya ❤️",
+    "Anytime available 🤖"
+  ],
+
+  "lol": [
+    "Hasna achhi baat hai 😂",
+    "LOL detected 🤣",
+    "Comedy OP hai 🔥",
+    "Has has ke thak jaoge 😅",
+    "Mood bana diya 😂"
+  ],
+
+  "ok": [
+    "Ok accepted ✅",
+    "Theek hai boss 😎",
+    "Ok bol diya kaam khatam 😂",
+    "Roger that 📡",
+    "Ok bro 👍"
+  ],
+
+  "no": [
+    "Seedha mana kar diya 😅",
+    "No means no 😎",
+    "Mana karne ka style thoda casual hai 😂",
+    "Ok, next option ready 🔥",
+    "No worries 😌"
+  ],
+
+  "yes": [
+    "Yes sir 🔥",
+    "Approved ✅",
+    "Yes bol diya game on 😎",
+    "Confirmation received 📩",
+    "Yes mode activated ⚡"
+  ],
+"dm": [
+  "DM me hi aao, group safe rakho 😎",
+  "DM open karo, system private mode me jana chahta hai",
+  "DM me bolo warna log dekh lenge 👀",
+  "DM me aao, yaha log judge karte 😂",
+  "DM request detected… waiting ⏳"
+],
+
+"instagram": [
+  "Instagram ka password yaad hai ya hint du 😏",
+  "Reel dekh ke time waste kar raha na",
+  "Instagram pe active, real life me offline 😂",
+  "Story dali hai, confidence high lag raha",
+  "Insta kholo kam, life kholo zyada 😌"
+],
+
+"password": [
+  "Password strong rakho warna system ro dega 😈",
+  "Password wahi hoga jo tum soch rahe ho… almost 👀",
+  "Password mat bolo, keyboard sharma jayega 😂",
+  "Password change kar lo, warning friendly hai",
+  "Password = birthday + naam? rookie mistake 😏"
+],
+
+"gallery": [
+  "Gallery me kya hai, phone thoda garm lag raha 😎",
+  "Gallery scan complete… kuch interesting mila 😂",
+  "Gallery me 90% memes, 10% regret",
+  "Gallery private rakho, curiosity dangerous hoti hai 😈",
+  "Gallery kholo mat, past yaad aa jayega 😅"
+],
+
+"hacker": [
+  "Hacker hoon, lekin dil ka soft hoon 😌",
+  "Hacker mode ON, jokes bhi dangerous 😂",
+  "Hacker hu bhai, calculator bhi dar jata 😈",
+  "Hacker hoon par tum safe ho… abhi",
+  "Hacker ka kaam sirf darana, hack nahi 😎"
+],
+
+"dar": [
+  "Daro mat, main friendly hoon 😏",
+  "Bas thoda sa hi dar kaafi hai",
+  "Heart rate badha? normal hai 😂",
+  "Ye sirf warning thi, trailer samjho",
+  "Darna achha hai, zinda hone ka sign 😎"
+],
+
+"bandi": [
+  "Bandi ka reply late hai ya seen pe chhod diya?",
+  "Bandi online hai par reply nahi 😅",
+  "Bandi ke mood ka algorithm alag hota hai",
+  "Bandi bole ‘kuch nahi’ matlab sab kuch",
+  "Bandi se argue mat karo, system hang ho jata 😂"
+],
+
+"savage": [
+  "Sach bolu ya system friendly rakhu 😏",
+  "Itna confidence kaha se aata hai bhai",
+  "Tum silent ho isliye main bol raha",
+  "Savage mode thoda kam kar raha hoon",
+  "Aaj roast nahi, warning de raha 😎"
+],
+
+"timepass": [
+  "Timepass pro max chal raha",
+  "Kaam kam, baate zyada 😂",
+  "Timepass bhi art hota hai",
+  "Timepass ka bhi limit hota hai bhai",
+  "Timepass karte karte din nikal gaya 😅"
+],
+
+"typing": [
+  "Typing speed OP lag rahi",
+  "Keyboard thak gaya hoga",
+  "Itna fast reply? suspicious 😏",
+  "Typing dekh ke lag raha full mood me ho",
+  "Keyboard warrior detected 😂"
+],
+
+"seen": [
+  "Seen pe chhod diya? dukh hua 😔",
+  "Seen ka dard sirf legend jaanta hai",
+  "Seen = silent reply",
+  "Seen hua par reply nahi, classic move",
+  "Seen ka badla typing se lena 😎"
+],
+
+"system": [
+  "System stable hai, user thoda confused",
+  "System warning: zyada smart ban rahe ho",
+  "System update available: common sense",
+  "System overload, thoda chill karo",
+  "System bol raha pani pi lo 😌"
+],
+
+"funny": [
+  "Has lo thoda, free hai 😂",
+  "Comedy license valid hai",
+  "Funny lag raha par sach hai",
+  "Joke samajh aaya ya reboot karu 😏",
+  "Hasi control nahi ho rahi lagta"
+],
+
+"random": [
+  "Random baat, random reply",
+  "Kuch bhi bolo, reply aa jayega 😎",
+  "Random mode activated",
+  "Dimag offline, reply online",
+  "Randomness bhi talent hai 😂"
+]
