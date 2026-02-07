@@ -1,26 +1,26 @@
 import replies from "../data/replies.json";
 
 export default function handler(req, res) {
-  try {
-    const text = (req.query.text || "").toLowerCase();
+  const q = (req.query.q || "").toLowerCase().trim();
 
-    let bucket = "default";
+  let matchedReplies = null;
 
-    if (text.includes("hello") || text.includes("hi")) {
-      bucket = "greetings";
-    } else if (text.includes("hack") || text.includes("password")) {
-      bucket = "hacker";
-    } else if (text.includes("lol") || text.includes("fun")) {
-      bucket = "funny";
+  // 🔥 keyword matching
+  for (const key in replies) {
+    if (q.includes(key)) {
+      matchedReplies = replies[key];
+      break;
     }
-
-    const arr = replies[bucket] || replies["default"];
-    const reply = arr[Math.floor(Math.random() * arr.length)];
-
-    res.status(200).json({ reply });
-  } catch (e) {
-    res.status(200).json({
-      reply: "System thoda busy hai, baad me try karo 😅"
-    });
   }
+
+  // ❌ agar kuch match nahi mila
+  if (!matchedReplies) {
+    matchedReplies = replies["default"];
+  }
+
+  // 🎲 random reply
+  const reply =
+    matchedReplies[Math.floor(Math.random() * matchedReplies.length)];
+
+  res.status(200).json({ reply });
 }
