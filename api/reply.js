@@ -1,21 +1,35 @@
 import replies from "../data/replies.json";
 
 export default function handler(req, res) {
-  const q = (req.query.q || "").toLowerCase();
+  try {
+    const { text } = req.query;
 
-  if (!q) {
-    return res.status(400).json({ error: "query missing" });
+    if (!text) {
+      return res.status(200).json({
+        reply: "Kuch likho bhai, main mind reader nahi hoon 😅"
+      });
+    }
+
+    const key = text.toLowerCase().trim();
+
+    // match exact key
+    if (replies[key]) {
+      const arr = replies[key];
+      const randomReply = arr[Math.floor(Math.random() * arr.length)];
+      return res.status(200).json({ reply: randomReply });
+    }
+
+    // fallback random reply
+    const fallback = replies["default"];
+    const randomFallback =
+      fallback[Math.floor(Math.random() * fallback.length)];
+
+    return res.status(200).json({ reply: randomFallback });
+
+  } catch (err) {
+    return res.status(500).json({
+      error: "Server crash prevented",
+      message: err.message
+    });
   }
-
-  const keys = Object.keys(replies);
-  const match = keys.find(k => q.includes(k));
-
-  if (!match) {
-    return res.json({ reply: "Samajh nahi aaya 😅" });
-  }
-
-  const list = replies[match];
-  const randomReply = list[Math.floor(Math.random() * list.length)];
-
-  res.json({ reply: randomReply });
 }
