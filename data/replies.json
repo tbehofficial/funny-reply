@@ -1,25 +1,157 @@
 {
-  "greetings": [
-    "Hello bhai 😎",
-    "Haan bolo, system online hai",
-    "Yo hacker spotted 👀"
+  "hello": [
+    "Hello hacker 😎",
+    "Yo bro!",
+    "Aaya bhai aaya",
+    "System online hai",
+    "Hello world 😉",
+    "Yo yo yo",
+    "Kaun aa gaya group me",
+    "Hello bhai, kaand ready?",
+    "System boot ho gaya",
+    "Aaj kiski band bajegi"
   ],
 
-  "funny": [
-    "Bhai tu serious hai ya system hang hai?",
-    "Itna mat soch, RAM bhar jayegi 😄",
-    "Lagta hai tu Instagram ka password bhool gaya"
+  "hi": [
+    "Hi nahi, command bolo",
+    "Hi bol ke logout mat ho jana",
+    "Hi detected, reply injected",
+    "Hi bro 😄",
+    "Hi keh ke hacker ban gaye",
+    "Hi ke aage bhi kuch likh do",
+    "Hi accepted, access denied",
+    "Hi mode ON",
+    "Hi bolne ka style thoda casual hai",
+    "Hi ka response ye lo"
+  ],
+
+  "kaise ho": [
+    "Zinda hoon bhai 😂",
+    "Bas chal raha hai",
+    "System stable hai",
+    "CPU thoda garam hai",
+    "Hacker kabhi theek nahi hota",
+    "Bas update pending hai",
+    "Life me bug hai",
+    "Jugaad chal raha hai",
+    "Battery low hai",
+    "Mood dark mode me hai"
+  ],
+
+  "admin": [
+    "Admin ko tag mat kar",
+    "Admin offline hai",
+    "Admin sirf dekh raha hai",
+    "Admin ka mood mat kharab kar",
+    "Admin bhi hacker hai",
+    "Admin sleeping mode me hai",
+    "Admin ke paas sabka data hai",
+    "Admin ko disturb mat karo",
+    "Admin sab notice karta hai",
+    "Admin silent mode me hai"
+  ],
+
+  "link": [
+    "Link fake lag rahi hai",
+    "Link open mat karo",
+    "Virus wali link hai kya",
+    "Link shortener se aayi lagti hai",
+    "Link pe click = regret",
+    "Link suspicious hai",
+    "Link bhejne se pehle check karo",
+    "Link ne dara diya",
+    "Link ka source bata",
+    "Link mat bhejo bhai"
   ],
 
   "hacker": [
-    "IP trace ho rahi hai, shant raho 😏",
-    "System me ghus gaye ho bhai",
-    "Firewall bhi confuse ho gaya"
+    "Hacker bolne se hacker nahi bante",
+    "Hacker ka bhi boss hota hai",
+    "Real hacker silent hota hai",
+    "Hacker ka kaam bolna nahi hota",
+    "Hacker ka mood dark hota hai",
+    "Hacker keyboard se ladta hai",
+    "Hacker coffee pe zinda hota hai",
+    "Hacker Google ka bhai hota hai",
+    "Hacker sirf search better karta hai",
+    "Hacker ka humor alag hota hai"
+  ],
+
+  "tool": [
+    "Tool ka link DM me",
+    "Tool free hai ya paid?",
+    "Tool outdated lag raha hai",
+    "Tool virus wala to nahi",
+    "Tool ka tutorial hai?",
+    "Tool run nahi ho raha",
+    "Tool error de raha hai",
+    "Tool Python me hai kya",
+    "Tool Linux support karta hai?",
+    "Tool ka password kya hai"
+  ],
+
+  "error": [
+    "Error aaye bina hacker nahi banta",
+    "Error ko ignore kar",
+    "Error ka screenshot bhej",
+    "Error tera dost hai",
+    "Error = learning",
+    "Error ka solution Google pe hai",
+    "Error ka matlab tu sahi raste pe hai",
+    "Error se hi experience aata hai",
+    "Error ke bina life boring hai",
+    "Error ko accept kar"
+  ],
+
+  "funny": [
+    "Itna serious kyu hai bhai 😂",
+    "Lagta hai tu bored hai",
+    "Group ko mat uda bhai",
+    "Ye line meme worthy hai",
+    "Has le thoda",
+    "Jyada dark mat ja",
+    "Ye group Netflix nahi hai",
+    "Bhai aaj full comedy hai",
+    "Mood light rakho",
+    "Ye joke thoda heavy tha"
+  ],
+
+  "girl": [
+    "Girl word sun ke hi typing fast ho gayi",
+    "Focus bhai focus 😄",
+    "Group me line mat maar",
+    "DM ka option bhi hota hai",
+    "Aaj Romeo mood me hai kya",
+    "Bhai control",
+    "Hacker pehle, lover baad me",
+    "Group Tinder nahi hai",
+    "Aankh band karke type kar raha hai kya",
+    "Bhai bhai bhai"
+  ],
+
+  "bye": [
+    "Bye bol ke mat bhaag",
+    "Bye accepted",
+    "Logout successful",
+    "Phir milenge",
+    "Disconnect ho raha hai",
+    "System shutting down",
+    "Bye hacker",
+    "Take care bro",
+    "Next session me milte hain",
+    "Bye bye 👋"
   ],
 
   "default": [
-    "Samjha nahi, par sun ke achha laga 😅",
-    "Bhai thoda clear bolo",
-    "System reply generate kar raha hai..."
+    "Samjha nahi par interesting tha",
+    "Thoda clear likh",
+    "Iska kya matlab nikalu",
+    "Ye alag hi level ka message tha",
+    "Group confuse ho gaya",
+    "Message noted",
+    "Ispe sochna padega",
+    "Reply generate ho raha hai",
+    "Lagta hai tu kuch kehna chahta hai",
+    "Next message better hoga"
   ]
 }
